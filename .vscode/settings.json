@@ -1,0 +1,9 @@
+
+{
+  "files.watcherExclude": {
+    "**/ai/**": true
+  },
+  "files.exclude": {
+    "**/ai/**": true
+  }
+}
