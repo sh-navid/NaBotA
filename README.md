@@ -14,6 +14,7 @@
 
 ## Build and Run Android Application on Ubuntu
 - Build 
+    - `./gradlew cleanBuildCache`
     - `./gradlew build`
     - `./gradlew assembleDebug --offline -q --console=plain`
 - Install
